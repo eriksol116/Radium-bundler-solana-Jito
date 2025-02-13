@@ -1,6 +1,6 @@
 # Solana Raydium Bundler Using JITO and LOOKUPTABLE
 
-As solana raydium jito bundler, it designed to facilitate buying and selling with 27 wallets simultaneously on the Solana blockchain. It used cutting-edge technologies for solana bundler so it's wonderful for for users looking to manage multiple transactions efficiently and effectively. This is basic version for giving basic understanding solana bundler on raydium using jito, so for real product, you need to get advanced version. Feel free to reach out of me when you need advanced version( https://t.me/Akamala88071015)
+As solana raydium jito bundler, it designed to facilitate buying and selling with 27 wallets simultaneously on the Solana blockchain. It used cutting-edge technologies for solana bundler so it's wonderful for for users looking to manage multiple transactions efficiently and effectively. This is basic version for giving basic understanding solana bundler on raydium using jito, so for real product, you need to get advanced version. Feel free to reach out of me when you need advanced version( https://t.me/erikerik116)
 
 ## Contact me
 
