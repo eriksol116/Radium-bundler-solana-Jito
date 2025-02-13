@@ -4,9 +4,13 @@ As solana raydium jito bundler, it designed to facilitate buying and selling wit
 
 ## Contact me
 
-discord:  joni_727373
-telegram: @Akamala88071015
+Gmail: tom.kinddev@gmail.com
 
+discord:  @erikerik116
+
+telegram: @erikerik116
+
+twitter: @erikerikerik116
 
 ## Getting Started
 
@@ -15,7 +19,7 @@ To get started with the Solana Raydium Bundler, follow these steps to ensure a s
 ### 1. How to run repository 
 
 #### Clone my repository
-Git clone https://github.com/erikerik116/Radium-bundler-bot-solana.git
+Git clone https://github.com/eriksol116/Radium-bundler-bot-solana.git
 
 #### Edit the `.env` File
 Before running the script, you need to configure the `.env` file. There are two keypairs required:
@@ -69,4 +73,4 @@ The Solana Raydium Bundler is a robust tool for managing multiple transactions o
 
 Follow me on github and give star to this repository.
 
-For more information, reach out of me (https://t.me/Akamala88071015)
+For more information, reach out of me (https://t.me/eriksol116)
